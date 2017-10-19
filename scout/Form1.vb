@@ -15,6 +15,12 @@
             If num = Type(i) Then
                 num = Int(Rnd() * people + 1)
             End If
+            If num = Type(i) Then
+                num = Int(Rnd() * people + 1)
+            End If
+            If num = Type(i) Then
+                num = Int(Rnd() * people + 1)
+            End If
             Me.Text = num.ToString
             If Type(num) = 0 Then
                 Exit For
