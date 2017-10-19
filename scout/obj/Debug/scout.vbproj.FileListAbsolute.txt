@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\scout\scout\bin\Debug\scout.exe.config
+C:\Users\user\Desktop\scout\scout\bin\Debug\scout.exe
+C:\Users\user\Desktop\scout\scout\bin\Debug\scout.pdb
+C:\Users\user\Desktop\scout\scout\bin\Debug\scout.xml
+C:\Users\user\Desktop\scout\scout\obj\Debug\scout.Form1.resources
+C:\Users\user\Desktop\scout\scout\obj\Debug\scout.Resources.resources
+C:\Users\user\Desktop\scout\scout\obj\Debug\scout.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\scout\scout\obj\Debug\scout.exe
+C:\Users\user\Desktop\scout\scout\obj\Debug\scout.xml
+C:\Users\user\Desktop\scout\scout\obj\Debug\scout.pdb
