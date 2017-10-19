@@ -2,7 +2,6 @@
     Dim people As Integer
     Dim cnt As Integer
     Dim Type(50) As Integer
-    Dim auto As Boolean = 0
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         people = InputBox("請輸入人數", "Hi")
         Label2.Text = "參加人數" & people & "人"
@@ -44,5 +43,9 @@
         For i = 1 To people
             Button1_Click(sender, e)
         Next
+    End Sub
+
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+        Application.Restart()
     End Sub
 End Class
